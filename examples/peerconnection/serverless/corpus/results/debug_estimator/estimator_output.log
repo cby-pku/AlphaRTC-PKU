@@ -1,0 +1,193 @@
+Throughput calculation skipped: insufficient time data. Returning last valid: 300000 bps
+Estimated bandwidth reported: 300000 bps
+Throughput calculated: 248465 bps (bytes=9069, duration=292ms)
+Estimated bandwidth reported: 248465 bps
+Throughput calculated: 203975 bps (bytes=12672, duration=497ms)
+Estimated bandwidth reported: 203975 bps
+Throughput calculated: 178168 bps (bytes=15612, duration=701ms)
+Estimated bandwidth reported: 178168 bps
+Throughput calculated: 161465 bps (bytes=19941, duration=988ms)
+Estimated bandwidth reported: 161465 bps
+Throughput calculated: 160741 bps (bytes=24071, duration=1198ms)
+Estimated bandwidth reported: 160741 bps
+Throughput calculated: 151653 bps (bytes=26672, duration=1407ms)
+Estimated bandwidth reported: 151653 bps
+Throughput calculated: 149478 bps (bytes=30120, duration=1612ms)
+Estimated bandwidth reported: 149478 bps
+Throughput calculated: 147344 bps (bytes=33392, duration=1813ms)
+Estimated bandwidth reported: 147344 bps
+Throughput calculated: 142231 bps (bytes=37158, duration=2090ms)
+Estimated bandwidth reported: 142231 bps
+Throughput calculated: 140949 bps (bytes=40611, duration=2305ms)
+Estimated bandwidth reported: 140949 bps
+Throughput calculated: 138546 bps (bytes=44889, duration=2592ms)
+Estimated bandwidth reported: 138546 bps
+Throughput calculated: 139058 bps (bytes=48740, duration=2804ms)
+Estimated bandwidth reported: 139058 bps
+Throughput calculated: 134145 bps (bytes=51797, duration=3089ms)
+Estimated bandwidth reported: 134145 bps
+Throughput calculated: 135041 bps (bytes=55806, duration=3306ms)
+Estimated bandwidth reported: 135041 bps
+Throughput calculated: 132735 bps (bytes=59532, duration=3588ms)
+Estimated bandwidth reported: 132735 bps
+Throughput calculated: 131571 bps (bytes=62365, duration=3792ms)
+Estimated bandwidth reported: 131571 bps
+Throughput calculated: 130528 bps (bytes=65460, duration=4012ms)
+Estimated bandwidth reported: 130528 bps
+Throughput calculated: 125981 bps (bytes=69148, duration=4391ms)
+Estimated bandwidth reported: 125981 bps
+Throughput calculated: 125300 bps (bytes=72142, duration=4606ms)
+Estimated bandwidth reported: 125300 bps
+Throughput calculated: 124895 bps (bytes=75109, duration=4811ms)
+Estimated bandwidth reported: 124895 bps
+Throughput calculated: 123927 bps (bytes=77300, duration=4990ms)
+Time: 1745209738293ms, Packet loss rate: 0.0000, Throughput: 123927 bps
+Throughput calculated: 121391 bps (bytes=78768, duration=5191ms)
+Estimated bandwidth reported: 121391 bps
+Throughput calculated: 120416 bps (bytes=81146, duration=5391ms)
+Estimated bandwidth reported: 120416 bps
+Throughput calculated: 120824 bps (bytes=84743, duration=5611ms)
+Estimated bandwidth reported: 120824 bps
+Throughput calculated: 118936 bps (bytes=86467, duration=5816ms)
+Estimated bandwidth reported: 118936 bps
+Throughput calculated: 116518 bps (bytes=88656, duration=6087ms)
+Estimated bandwidth reported: 116518 bps
+Throughput calculated: 115889 bps (bytes=91089, duration=6288ms)
+Estimated bandwidth reported: 115889 bps
+Throughput calculated: 114484 bps (bytes=94292, duration=6589ms)
+Estimated bandwidth reported: 114484 bps
+Throughput calculated: 111394 bps (bytes=97317, duration=6989ms)
+Estimated bandwidth reported: 111394 bps
+Throughput calculated: 110580 bps (bytes=99716, duration=7214ms)
+Estimated bandwidth reported: 110580 bps
+Throughput calculated: 108823 bps (bytes=101886, duration=7490ms)
+Estimated bandwidth reported: 108823 bps
+Throughput calculated: 107933 bps (bytes=104007, duration=7709ms)
+Estimated bandwidth reported: 107933 bps
+Throughput calculated: 106656 bps (bytes=105510, duration=7914ms)
+Estimated bandwidth reported: 106656 bps
+Throughput calculated: 105574 bps (bytes=109415, duration=8291ms)
+Estimated bandwidth reported: 105574 bps
+Throughput calculated: 104854 bps (bytes=111552, duration=8511ms)
+Estimated bandwidth reported: 104854 bps
+Throughput calculated: 103776 bps (bytes=113052, duration=8715ms)
+Estimated bandwidth reported: 103776 bps
+Throughput calculated: 102933 bps (bytes=116932, duration=9088ms)
+Estimated bandwidth reported: 102933 bps
+Throughput calculated: 100914 bps (bytes=118448, duration=9390ms)
+Estimated bandwidth reported: 100914 bps
+Throughput calculated: 101575 bps (bytes=122145, duration=9620ms)
+Estimated bandwidth reported: 101575 bps
+Throughput calculated: 98697 bps (bytes=124495, duration=10091ms)
+Calculated bandwidth 98697 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 99058 bps (bytes=127686, duration=10312ms)
+Calculated bandwidth 99058 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 98332 bps (bytes=130155, duration=10589ms)
+Calculated bandwidth 98332 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 96726 bps (bytes=131681, duration=10891ms)
+Calculated bandwidth 96726 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 96356 bps (bytes=133887, duration=11116ms)
+Calculated bandwidth 96356 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 95963 bps (bytes=137827, duration=11490ms)
+Calculated bandwidth 95963 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 94559 bps (bytes=139322, duration=11787ms)
+Calculated bandwidth 94559 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 93971 bps (bytes=140864, duration=11992ms)
+Calculated bandwidth 93971 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 93677 bps (bytes=143900, duration=12289ms)
+Calculated bandwidth 93677 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 93372 bps (bytes=146000, duration=12509ms)
+Calculated bandwidth 93372 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 92803 bps (bytes=147477, duration=12713ms)
+Calculated bandwidth 92803 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 92497 bps (bytes=151349, duration=13090ms)
+Calculated bandwidth 92497 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 91312 bps (bytes=152834, duration=13390ms)
+Time: 1745209746693ms, Packet loss rate: 0.0000, Throughput: 91312 bps
+Throughput calculated: 91312 bps (bytes=152834, duration=13390ms)
+Calculated bandwidth 91312 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 90854 bps (bytes=154351, duration=13591ms)
+Calculated bandwidth 90854 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 90674 bps (bytes=157434, duration=13890ms)
+Calculated bandwidth 90674 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 90442 bps (bytes=159495, duration=14108ms)
+Calculated bandwidth 90442 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 89959 bps (bytes=160972, duration=14315ms)
+Calculated bandwidth 89959 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 89779 bps (bytes=164857, duration=14690ms)
+Calculated bandwidth 89779 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 88760 bps (bytes=166337, duration=14992ms)
+Calculated bandwidth 88760 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 88694 bps (bytes=168664, duration=15213ms)
+Calculated bandwidth 88694 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 88239 bps (bytes=170875, duration=15492ms)
+Calculated bandwidth 88239 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 88099 bps (bytes=172972, duration=15707ms)
+Calculated bandwidth 88099 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 87673 bps (bytes=174437, duration=15917ms)
+Calculated bandwidth 87673 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 87576 bps (bytes=178306, duration=16288ms)
+Calculated bandwidth 87576 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 86682 bps (bytes=179780, duration=16592ms)
+Calculated bandwidth 86682 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 86627 bps (bytes=182124, duration=16819ms)
+Calculated bandwidth 86627 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 86455 bps (bytes=185761, duration=17189ms)
+Calculated bandwidth 86455 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 85629 bps (bytes=187197, duration=17489ms)
+Calculated bandwidth 85629 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 85304 bps (bytes=188640, duration=17691ms)
+Calculated bandwidth 85304 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 85697 bps (bytes=191662, duration=17892ms)
+Calculated bandwidth 85697 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 85542 bps (bytes=193668, duration=18112ms)
+Calculated bandwidth 85542 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 84631 bps (bytes=194536, duration=18389ms)
+Calculated bandwidth 84631 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 84995 bps (bytes=197509, duration=18590ms)
+Calculated bandwidth 84995 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 84902 bps (bytes=199659, duration=18813ms)
+Calculated bandwidth 84902 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 83978 bps (bytes=200403, duration=19091ms)
+Calculated bandwidth 83978 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 84563 bps (bytes=204188, duration=19317ms)
+Calculated bandwidth 84563 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps
+Throughput calculated: 83497 bps (bytes=206530, duration=19788ms)
+Calculated bandwidth 83497 bps is below minimum threshold. Returning minimum: 100000 bps
+Estimated bandwidth reported: 100000 bps

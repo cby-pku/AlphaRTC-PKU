@@ -1,6 +1,10 @@
 {
+    "experiment": {
+        "id": "${EXPERIMENT_ID}",
+        "output_dir": "${OUTPUT_DIR}"
+    },
     "serverless_connection": {
-        "autoclose": 20,
+        "autoclose": "${AUTOCLOSE_TIME}",
         "sender": {
             "enabled": true,
             "dest_ip": "0.0.0.0",
@@ -10,7 +14,7 @@
             "enabled": false
         }
     },
-    "bwe_feedback_duration": 200,
+    "bwe_feedback_duration": "${BWE_FEEDBACK_DURATION}",
     "video_source": {
         "video_disabled": {
             "enabled": false
@@ -20,9 +24,9 @@
         },
         "video_file": {
             "enabled": true,
-            "height": 240,
-            "width": 320,
-            "fps": 10,
+            "height": "${VIDEO_HEIGHT}",
+            "width": "${VIDEO_WIDTH}",
+            "fps": "${VIDEO_FPS}",
             "file_path": "testmedia/test.yuv"
         }
     },
@@ -39,6 +43,7 @@
         "enabled": false
     },
     "logging": {
-        "enabled": false
+        "enabled": true,
+        "log_output_path": "${OUTPUT_DIR}/sender_${EXPERIMENT_ID}.log"
     }
 }
